@@ -1,13 +1,13 @@
 <?php
 /*
-Plugin Name: SKD Custom Post Type Fields (with ACF Integration)
+Plugin Name: DC Custom Post Type Fields (with ACF Integration)
 Plugin URI:  https://example.com/
 Description: A plugin to register a custom post type and associate it with an existing ACF field group dynamically.
 Version:     1.0
-Author:      SKD
+Author:      DC
 Author URI:  https://example.com/
 License:     GPLv2 or later
-Text Domain: skd-custom-post-type-fields
+Text Domain: dc-custom-post-type-fields
 */
 
 if (!defined('ABSPATH')) exit; // Exit if accessed directly
